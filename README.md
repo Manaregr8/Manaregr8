@@ -1,11 +1,10 @@
-
+![logo](https://github.com/Manaregr8/Manaregr8/blob/main/1703307891162.jpeg)
 <h1 align="center">Hi 👋, I'm Manjeet Singh</h1>
 <h3 align="center">Proactive student pursuing a B.Tech Degree in AIML, proficient in web development and front-end technologies. Skilled in leveraging JavaScript as a server-side language, with practical experience in React and Angular frameworks. Additionally, adept in Kubernetes and Docker for efficient deployment and scaling of applications. Previous engagements with baseline companies underscore dedication to continuous improvement and impactful contributions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manaregr8&label=Profile%20views&color=0e75b6&style=flat" alt="manaregr8" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manaregr8" alt="manaregr8" /></a> </p>
-
+<img align="right" width="400px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY20wZ2hzZmNiNXVrNnkxdnVtcXo2amFrbHI4dzdpM3lwanIyYWZiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 - 🔭 I’m currently working on [GameSphere-MultiPlayer/Community-Page](https://github.com/GameSphere-MultiPlayer/Community-Page)
 
 - 🌱 I’m currently learning **Backend Development and Machine Learning**
