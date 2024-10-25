@@ -43,3 +43,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manaregr8&show_icons=true&locale=en" alt="manaregr8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manaregr8&" alt="manaregr8" /></p>
+Contact me at <a href="tel:8506040783">8506040783</a>
