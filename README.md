@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manaregr8" alt="manaregr8" /></a> </p>
 <img align="right" width="400px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY20wZ2hzZmNiNXVrNnkxdnVtcXo2amFrbHI4dzdpM3lwanIyYWZiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
-- 🔭 I’m currently working on [(https://github.com/FINESTMOSAIC/sustainedpaths)]
+- 🔭 I’m currently working on (https://github.com/FINESTMOSAIC/sustainedpaths](https://github.com/Manaregr8/manjeet_singh)
 
 - 🌱 I’m currently learning **Backend Development and Machine Learning**
 
