@@ -1,6 +1,6 @@
 ![logo](https://github.com/Manaregr8/Manaregr8/blob/main/1703307891162.jpeg)
 <h1 align="center">Hi 👋, I'm Manjeet Singh</h1>
-<h3 align="center">Proactive student pursuing a B.Tech Degree in AIML, Proficient in web development and front-end technologies. Skilled in leveraging JavaScript as a server-side language, with practical experience in React and Angular frameworks. Additionally, adept in efficient deployment and scaling of applications. Previous engagements with baseline companies underscore dedication to continuous improvement and impactful contributions.</h3>
+<h3 align="center">Proficient in web development and front-end technologies. Skilled in leveraging JavaScript as a server-side language, with practical experience in React and Angular frameworks. Additionally, adept in efficient deployment and scaling of applications. Previous engagements with baseline companies underscore dedication to continuous improvement and impactful contributions.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manaregr8" alt="manaregr8" /></a> </p>
